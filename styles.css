@@ -1,0 +1,23 @@
+body, html {
+  height: 100%;
+}
+
+.container {
+  height: 100%;
+  display: flex;
+}
+
+.dragzone {
+  width: 50%;
+  height: 100%;
+}
+
+.dropzone {
+  width: 50%;
+  height: 90%;
+  border: 10px dotted orange;
+}
+
+.dog {
+  width: 200px;
+}
